@@ -1,0 +1,404 @@
+[
+{
+	"blockLevel": 1424401,
+	"Type": "entry",
+	"Value": 33, 
+	"Alias": "XTZ transfer",
+	"assetBucket": "XTZ"
+},
+{
+	"blockLevel": 1424402,
+	"Type": "exit",
+	"Value": -7,
+	"Alias": "taco buy",
+	"assetBucket": "XTZ"
+},
+{
+	"blockLevel": 1424402,
+	"Type": "FMV",
+	"Value": 0.5,
+	"Alias": "taco return",
+	"assetBucket": "XTZ"
+
+},
+{
+	"blockLevel": 1424402,
+	"Type": "entry",
+	"Value": 1,
+	"Alias": "taco buy",
+	"assetBucket": "TacoHolder1"
+
+},
+
+
+{
+	"blockLevel": 1424418,
+	"Type": "non-value communication",
+	"Value": null,
+	"Alias": "taco bucket update op",
+	"assetBucket": "TacoHolder2"
+},
+
+{
+	"blockLevel": 1424418,
+	"Type": "value communication",
+	"Value": -1,
+	"Alias": "config taco",
+	"assetBucket": "TacoHolder1"
+},
+
+
+{
+	"blockLevel": 1424418,
+	"Type": "non-value communication",
+	"Value": 1,
+	"Alias": "config taco",
+	"assetBucket": "TacoHolder2"
+},
+
+
+{
+	"blockLevel": 1424422,
+	"Type": "exit",
+	"Value": -10,
+	"Alias": "swapRSAL from XTZ",
+	"assetBucket": "XTZ"
+},
+
+
+{
+	"blockLevel": 1424422,
+	"Type": "entry",
+	"Value": 5880,
+"Alias": "swapRSAL from XTZ",
+	"assetBucket": "RSAL"
+},
+
+
+{
+	"blockLevel": 1424425,
+	"Type": "non-value communication",
+	"Value": null,
+"Alias": "updateops",
+	"assetBucket": "RSAL"
+},
+
+
+{
+	"blockLevel": 1424425,
+	"Type": "value communication",
+	"Value": -5880,
+"Alias": "stake",
+	"assetBucket": "RSAL"
+},
+
+
+{
+	"blockLevel": 1424741,
+	"Type": "entry",
+	"Value": 28,
+"Alias": "kucoin transfer",
+	"assetBucket": "XTZ"
+},
+
+
+{
+	"blockLevel": 1424752,
+	"Type": "exit",
+	"Value": -15,
+"Alias": "Swap XTZ RSAL",
+	"assetBucket": "XTZ"
+},
+
+{
+	"blockLevel": 1424752,
+	"Type": "entry",
+	"Value": 7712,
+"Alias": "SWAP XTZ RSAL",
+	"assetBucket": "RSAL"
+},
+
+
+{
+	"blockLevel": 1424754,
+	"Type":"non value communication",
+	"Value": null,
+"Alias": "update ops",
+	"assetBucket": "RSAL"
+},
+
+
+{
+	"blockLevel": 1424754,
+	"Type": "value communication",
+	"Value": -7712,
+"Alias": "stake",
+	"assetBucket": "RSAL"
+},
+
+
+{
+	"blockLevel": 1424775,
+	"Type": "exit",
+	"Value": -5,
+"Alias": "token swap to SDAO from XTZ",
+	"assetBucket": "XTZ"
+},
+
+{
+	"blockLevel": 1424775,
+	"Type": "entry",
+	"Value": 490,
+"Alias": "tokenswap to SDAO from XTZ",
+	"assetBucket": "SDAO"
+},
+
+
+{
+	"blockLevel": 1424776,
+	"Type": "non-value communication",
+	"Value": null,
+"Alias": "update op SDAO",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1424776,
+	"Type": "value communication",
+	"Value": -490,
+"Alias": "stake",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1424776,
+	"Type": "value communication",
+	"Value": 47638,
+"Alias": "withdraw profit",
+	"assetBucket": "SDAO/KKHolder"
+},
+
+
+{
+	"blockLevel": 1424776,
+	"Type": "FMV",
+	"Value": 0.1,
+"Alias": "withdrawprofit/trasnfer",
+	"assetBucket": "XTZ"
+},
+
+
+{
+	"blockLevel": 1424776,
+	"Type": "non value communication",
+	"Value": null,
+"Alias": "update ops",
+	"assetBucket": "SDAO"
+},
+
+
+{
+	"blockLevel": 1424778,
+	"Type": "non value communication",
+	"Value": null,
+"Alias": "update ops",
+	"assetBucket": "SDAO/KK"
+},
+
+{
+	"blockLevel": 1424778,
+	"Type": "value communication",
+	"Value": -47638,
+"Alias": "Stake",
+	"assetBucket": "SDAO/KK"
+},
+
+
+{
+	"blockLevel": 1424781,
+	"Type": "entry",
+	"Value": 493,
+"Alias": "swap xtz for sdao",
+	"assetBucket": "SDAO/KK"
+},
+
+{
+	"blockLevel": 1424781,
+	"Type": "exit",
+	"Value": -5,
+"Alias": "swap xtz for sdao",
+	"assetBucket": "XTZ"
+},
+
+{
+	"blockLevel": 1424787,
+	"Type": "non value communication",
+	"Value": null,
+"Alias": "update ops",
+	"assetBucket": "SDAO/KK"
+},
+
+{
+	"blockLevel": 1424787,
+	"Type": "value communication",
+	"Value": -495,
+"Alias": "stake",
+	"assetBucket": "SDAO/KK"
+},
+
+{
+	"blockLevel": 1425984,
+	"Type": "value communication",
+	"Value": 87,
+"Alias": "resolve contract",
+	"assetBucket": "SDAO/KK/Unknown"
+},
+
+{
+	"blockLevel": 1425984,
+	"Type": "entry",
+	"Value": 12,
+"Alias": "transfer resolve contract",
+	"assetBucket": "XTZ"
+},
+
+{
+	"blockLevel": 1425987,
+	"Type": "exit",
+	"Value": -8.2,
+"Alias": "buy taco token",
+	"assetBucket": "XTZ"
+},
+
+
+{
+	"blockLevel": 1425987,
+	"Type": "entry",
+	"Value": 1,
+"Alias": "buy taco token",
+	"assetBucket": "tacoholder2"
+},
+
+{
+	"blockLevel": 1425987,
+	"Type": "FMV",
+	"Value": 0.5,
+"Alias": "taco kickback",
+	"assetBucket": "XTZ"
+},
+
+{
+	"blockLevel": 1429204,
+	"Type": "value communication",
+	"Value": 360,
+"Alias": "claim sdao",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1429205,
+	"Type": "non value communication",
+	"Value": null,
+"Alias": "update ops",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1429205,
+	"Type": "value communication",
+	"Value": -360,
+"Alias": "stake",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1429274,
+	"Type": "exit",
+	"Value": -5,
+"Alias": "swap xtz for SDAO",
+	"assetBucket": "XTZ"
+},
+
+{
+	"blockLevel": 1429274,
+	"Type": "entry",
+	"Value": 206,
+"Alias": "swap xtz for SDAO",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1429276,
+	"Type": "non value communication",
+	"Value": null,
+"Alias": "update ops",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1429276,
+	"Type": "value communication",
+	"Value": 206,
+"Alias": "stake",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1432877,
+	"Type": "value communication",
+	"Value": 227,
+"Alias": "claim stake",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1432878,
+	"Type": "non value communication",
+	"Value": null,
+"Alias": "update ops",
+	"assetBucket": "SDAO"
+},
+
+{
+	"blockLevel": 1432878,
+	"Type": "value communication",
+	"Value": -227,
+"Alias": "stake" ,
+	"assetBucket": "SDAO"
+},
+
+
+{
+	"blockLevel": 1436065,
+	"Type": "value communication",
+	"Value": 47638,
+	"Alias": "un-stake",
+	"assetBucket": "SDAO/KK/unknown"
+},
+
+
+{
+	"blockLevel": 1436075,
+	"Type": "exit",	
+	"Value": -47638,
+	"Alias": "divest liquidity swap staking token for SDAO" ,
+	"assetBucket": "KK stake holder"
+},
+
+{
+	"blockLevel": 1436075,
+	"Type": "entry",
+	"Value": 521,
+	"Alias": "divest liquidity swap staking token for SDAO",
+	"assetBucket": "SDAO"
+},
+
+
+{
+	"blockLevel": 1436075,
+	"Type": "FMV",
+	"Value": 4.7,
+	"Alias": "xtz transfer after divest liquidity swap staking token for SDAO" ,
+	"assetBucket":"XTZ"
+}
+]

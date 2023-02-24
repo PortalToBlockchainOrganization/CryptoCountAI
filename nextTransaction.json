@@ -1,0 +1,31 @@
+[{
+
+"type": "transaction",
+"id": 48890228244480,
+"level": 1436076,
+"timestamp": "2021-04-19T18:11:08Z",
+"block": "BM4VnxHzSkTf4HhxtkKxRtYj3iFWVC98RNFkX8CXS5Qv8PYD6y9",
+"hash": "opTfit7DfLNSDR989XmutJdSq2YqfwBW3K2Pd1btqrXS23mKp2S",
+"counter": 12821435,
+"sender": {
+"address": "tz1Yah7WCq8p3z2Qi4kp52FcDik9j7sUZMVN"
+},
+"gasLimit": 66812,
+"gasUsed": 40367,
+"storageLimit": 0,
+"storageUsed": 0,
+"bakerFee": 6984,
+"storageFee": 0,
+"allocationFee": 0,
+"target": {
+"address": "KT1HMg7F3AmjQadsacoQfTMa9URaiTffebbK"
+},
+"targetCodeHash": 459483315,
+"amount": 0,
+"parameter": {
+"entrypoint": "claim",
+"value": {}
+},
+"status": "applied",
+"hasInternals": true
+}]
