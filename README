@@ -1,15 +1,12 @@
-TensorFlow Python
+CryptoCount's On-Chain Transaction Reverse Engineering Accounting Categorization AI.
 
-Launch env with 
+The TensorFlow AI model's purpose is to categorize on chain transactions between entering or exiting a token position (Capital Gain Classification) and receving rewards, payouts, or winnings (Fair Market Value Classification). 
 
-#source env/bin/activate
 
-Interest files:
+TRANSACTION PIPLEINE - TZKT
+*undefined*transactionCleaningScript
+transactionLengthOrganization.py
+transactionEncode.py
 
-firstModel.py
-secondModel.py
-thirdModel.py
-trainingSet1.json
-trainingSet1Result.json
-nextTransaction.json
-dataPrep.py
+RESULT PIPLEINE - MANUAL CREATION
+encodeResultData.py
