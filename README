@@ -10,3 +10,21 @@ transactionEncode.py
 
 RESULT PIPLEINE - MANUAL CREATION
 encodeResultData.py
+
+MODEL LAYER 1
+typeModelResult1.py
+assetBucketModelResult1.py
+valueModelResult1.py
+
+MODEL LAYER 2
+typeModelResult2.py
+assetBucketModelResult2.py
+valueModelResult2.py
+
+MODEL LAYER 3
+typeModelResult3.py
+assetBucketModelResult3.py
+valueModelResult3.py
+
+SERVER
+CRYPTOCOUNTAI.py
