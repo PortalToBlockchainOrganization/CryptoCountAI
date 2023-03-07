@@ -28,6 +28,9 @@ typeModelResult3.py
 assetBucketModelResult3.py
 valueModelResult3.py
 
+Decode Model Prediction
+encodeAndDecode.py
+
 SERVER - Django Basic
 CryptoCountAI/
   manage.py
