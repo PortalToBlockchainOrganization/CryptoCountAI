@@ -26,5 +26,11 @@ typeModelResult3.py
 assetBucketModelResult3.py
 valueModelResult3.py
 
-SERVER
-CRYPTOCOUNTAI.py
+SERVER - Django Basic
+CryptoCountAI/
+  manage.py
+  RoutesAndViews/
+    urls.py ~ routes
+    views.py ~ data prep pipeline and model calling methods
+    ~~models and pipelines~~
+    
