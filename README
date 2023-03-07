@@ -11,7 +11,9 @@ transactionEncode.py
 RESULT PIPLEINE - MANUAL CREATION
 encodeResultData.py
 
-MODEL LAYER 1
+Training Files Where Model Is Saved to File For Later Call in Views
+
+MODEL LAYER 1 
 typeModelResult1.py
 assetBucketModelResult1.py
 valueModelResult1.py
