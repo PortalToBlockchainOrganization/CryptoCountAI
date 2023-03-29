@@ -1,0 +1,1 @@
+This file holds trained data for the CryptoCount AI. 
